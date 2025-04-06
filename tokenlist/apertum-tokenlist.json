@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "keywords": [
     "apertum",
@@ -92,6 +92,22 @@
       "decimals": 18,
       "address": "0xC84B40231E270B827cEb0A27b78AA3fBa443Cf46",
       "logoURI": "https://github.com/Danilo1103/pugicon/blob/main/pug_icon.png?raw=true"
+    },
+    {
+      "name": "VITALIUM",
+      "chainId": 2786,
+      "symbol": "VTLM",
+      "decimals": 18,
+      "address": "0x52071d0fd6DDf9BFDbBC577e693b1AaD9b125914",
+      "logoURI": "https://raw.githubusercontent.com/dzhagerr/apertum/refs/heads/main/vitalium.jpg"
+    },
+    {
+      "name": "Multimillionaire",
+      "chainId": 2786,
+      "symbol": "MULT",
+      "decimals": 18,
+      "address": "0xe01b4D4Acfd72Ca425C3467b53394f11A0459aeA",
+      "logoURI": "https://raw.githubusercontent.com/dzhagerr/apertum/refs/heads/main/mult.png"
     }
   ]
 }
