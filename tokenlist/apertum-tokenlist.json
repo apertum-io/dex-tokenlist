@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 16
+    "patch": 18
   },
   "keywords": [
     "apertum",
@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://assets.apertum.io/assets/apertum-logo.svg",
-  "timestamp": "2025-07-23T11:10:13+0000",
+  "timestamp": "2025-07-23T16:10:13+0000",
   "tokens": [
     {
       "name": "Wrapped APTM",
@@ -84,6 +84,14 @@
       "decimals": 18,
       "address": "0xF3074054737B9E83D73c3c17a007939E12698d5C",
       "logoURI": "https://assets.apertum.io/assets/wBNB.svg"
+    },
+    {
+      "name": "Wrapped wETH",
+      "chainId": 2786,
+      "symbol": "wETH",
+      "decimals": 18,
+      "address": "0x01882C43AA0bEe891b54857c15CC19A3dF946f01",
+      "logoURI": "https://assets.apertum.io/assets/wETH.svg"
     },
     {
       "name": "ANOUBIS",
