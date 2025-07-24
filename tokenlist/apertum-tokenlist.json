@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 18
+    "patch": 19
   },
   "keywords": [
     "apertum",
@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://assets.apertum.io/assets/apertum-logo.svg",
-  "timestamp": "2025-07-23T16:10:13+0000",
+  "timestamp": "2025-07-24T07:10:13+0000",
   "tokens": [
     {
       "name": "Wrapped APTM",
@@ -92,6 +92,14 @@
       "decimals": 18,
       "address": "0x01882C43AA0bEe891b54857c15CC19A3dF946f01",
       "logoURI": "https://assets.apertum.io/assets/wETH.svg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "chainId": 2786,
+      "symbol": "wBTC",
+      "decimals": 18,
+      "address": "0x75598B9f54Df1472bB2bDC3b5dc791bDb109A52b",
+      "logoURI": "https://assets.apertum.io/assets/wBTC-aptm.svg"
     },
     {
       "name": "ANOUBIS",
