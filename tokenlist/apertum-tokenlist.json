@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 19
+    "patch": 20
   },
   "keywords": [
     "apertum",
@@ -11,7 +11,7 @@
     "trusted"
   ],
   "logoURI": "https://assets.apertum.io/assets/apertum-logo.svg",
-  "timestamp": "2025-07-24T07:10:13+0000",
+  "timestamp": "2025-09-19T07:10:13+0000",
   "tokens": [
     {
       "name": "Wrapped APTM",
@@ -100,6 +100,14 @@
       "decimals": 18,
       "address": "0x75598B9f54Df1472bB2bDC3b5dc791bDb109A52b",
       "logoURI": "https://assets.apertum.io/assets/wBTC-aptm.svg"
+    },
+    {
+      "name": "Wrapped G999",
+      "chainId": 2786,
+      "symbol": "wG999",
+      "decimals": 18,
+      "address": "0x47400a37EB73C786FC92Bac7F9bf046925F4797e",
+      "logoURI": "https://assets.apertum.io/icons/wG999.png"
     },
     {
       "name": "ANOUBIS",
